@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "org.wegoin",
+            "sha256_cert_fingerprints": [
+                "9D:14:B7:4C:AB:62:A5:F8:9B:F9:FE:DF:9E:16:32:03:CA:00:07:1A:86:62:7B:30:84:16:95:0C:BF:8A:2D:D5"
+            ]
+        }
+    }
+]
