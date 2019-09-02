@@ -1,9 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "org.wegoin",
-    "sha256_cert_fingerprints":
-    ["48:85:B9:26:88:E3:20:72:59:0E:46:65:BE:B5:B2:47:32:53:2D:CB:C5:28:AE:A4:30:F6:04:4F:00:35:86:ED"]
-  }
-}]
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "org.wegoin",
+            "sha256_cert_fingerprints": [
+                "48:85:B9:26:88:E3:20:72:59:0E:46:65:BE:B5:B2:47:32:53:2D:CB:C5:28:AE:A4:30:F6:04:4F:00:35:86:ED"
+            ]
+        }
+    }
+]
